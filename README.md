@@ -56,7 +56,8 @@ This application allows users to track their fitness activities such as workout 
 - Spring Security
 - Spring Data JPA
 - Hibernate
-- MySQL
+- PostgreSQL
+- MongoDB
 - RabbitMQ
 - Eureka Server
 - API Gateway
